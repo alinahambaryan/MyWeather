@@ -7,6 +7,7 @@
 //
 
 #import "AppDelegate.h"
+#import "NetworkManager.h"
 
 @interface AppDelegate ()
 

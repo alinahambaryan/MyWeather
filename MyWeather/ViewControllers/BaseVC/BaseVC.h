@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  BaseVC.h
 //  MyWeather
 //
 //  Created by ALINA HAMBARYAN on 9/18/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface BaseVC : UIViewController
 
 @end
-
